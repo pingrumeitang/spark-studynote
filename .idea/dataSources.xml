@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@hadoop101" uuid="a056123f-ce57-439d-880b-e134d5661d9c">
+      <driver-ref>hive</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
+      <jdbc-url>jdbc:hive2://hadoop101:22</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="User Data Source [5] -" uuid="6c6e7d6d-0c77-4f56-88f8-411cad4b12fb">
+      <driver-ref>c56cdd08-607d-4d9b-9e8d-72095cf84364</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>java.sql.Driver</jdbc-driver>
+    </data-source>
+  </component>
+</project>
